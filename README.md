@@ -2,8 +2,7 @@
 👨‍💻 Teen Dev - Status: Learning
 
 Some projects -->
-GeoCasetas (Sevilla Update)
-Starfiland Network (Closed) / Exocraft Network (Closed) / TheChill Squad Server (Closed) 
+GeoCasetas (Sevilla Update) / ChillHosting (Closed) / Starfiland Network (Closed) / Exocraft Network (Closed) / TheChill Squad Server (Closed) 
   
 ![](https://komarev.com/ghpvc/?username=ferrcarrion&color=13BCA9)
 
