@@ -7,7 +7,7 @@
 Some projects -->
 Starfiland Network (Closed) / Exocraft Network (Closed) / TheChill Squad Server (Closed) 
   
-![](https://komarev.com/ghpvc/?username=fer046&color=13BCA9)
+![](https://komarev.com/ghpvc/?username=ferrcarrion&color=13BCA9)
 
 
 <h2 align="center">Skills</h2>
